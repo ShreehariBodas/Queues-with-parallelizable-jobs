@@ -1,1 +1,1 @@
-# PhD-project-4
+In this project, we consider queues with parallelizable jobs.
